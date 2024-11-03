@@ -1,7 +1,7 @@
 {
   "facebookAccount": {},
-  "email": "",
-  "password": "",
+  "email": "hassanadvice908@gmail.com",
+  "password": "lllkkk",
   "2FASecret": "",
   "i_user": "",
   "proxy": null,
@@ -16,10 +16,10 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085330421655",
-    "61550015740026",
-    "61554201747411",
-    "61552554206156"
+    "61555393416824",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
